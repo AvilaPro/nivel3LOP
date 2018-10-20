@@ -1,0 +1,13 @@
+Enunciado de la tarea 1 de la sección 2726
+
+Formule un algoritmo modular considerando el siguiente enunciado: ENUNCIADO: Procesar números enteros en el rango de 100 a 1000 hasta que el usuario decida interrumpir el procesamiento cumpliendo con los objetivos indicados:
+
+1.- Implementar un menú con 3 opciones: Procesar números, Mostrar resultados y Salir, recuerde usar la opción "De otro modo"
+
+2.- Usando ciclo Repetir-Hasta implementar la lectura validada de los números a ser procesados, mediante una función.
+
+3.- Controlar la finalización del procesamiento de los números (opción uno del menú) hasta que el usuario decida interrumpirlo mediante una respuesta.
+
+4.- Calcular y mostrar la Cantidad de números procesados y la Cantidad de números en el rango de 200 y 400
+
+5.- Calcular y mostrar el Acumulado de todos los números ingresados y el Acumulado de los números pares
