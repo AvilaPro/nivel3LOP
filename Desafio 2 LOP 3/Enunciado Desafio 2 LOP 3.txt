@@ -1,0 +1,13 @@
+Enunciado de la tarea 2 de la sección 2726
+
+Con base en el enunciado debe presentar una algoritmo que satisfaga los objetivos indicados a continuación. ENUNCIADO: Captar los nombres y las edades de 10 personas  cumpliendo con los siguientes objetivos:
+
+1.- Implementar ciclo Mientras
+
+2.- Determinar y mostrar la edad promedio de todas las personas
+
+3.- Determinar y mostrar el porcentaje de las personas menores de edad
+
+4.- Determinar y mostrar la menor edad y el nombre de la 1era persona que la tiene
+
+5.- Determinar y mostrar la mayor edad y el nombre de la 1era persona que la tiene
