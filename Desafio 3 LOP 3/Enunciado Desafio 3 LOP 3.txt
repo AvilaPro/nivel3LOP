@@ -1,0 +1,13 @@
+Enunciado de la tarea 3 de la sección 2726
+
+Con base en el enunciado, satisfaga los objetivos indicados. ENUNCIADO: Procesar la información de facturación de un consultor que sirve a 5 clientes en cada período de facturación. A cada cliente le presta uno o varios servicios. Tenga presente que c/u de los servicios tiene un costo diferente. 
+
+1.- Implementar anidamiento de ciclos, para obtener el total de los costos de los servicios prestados a cada cliente.
+
+2.- Calcular y mostrar el monto a cobrar por cada factura incluyendo el IVA (16%).
+
+3.- Calcular y mostrar el monto total a cobrar libre de impuestos.
+
+4.- Calcular y mostrar el monto de total de IVA a cobrar.
+
+5.- Calcular y mostrar el monto total a facturar en el período de facturación
