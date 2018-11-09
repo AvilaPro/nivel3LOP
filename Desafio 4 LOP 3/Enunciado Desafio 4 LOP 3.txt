@@ -1,0 +1,13 @@
+Enunciado de la tarea 4 de la sección 2726
+
+Crear un algoritmo usando arreglos paralelos en base al siguiente enunciado: al final de una semana una tienda que tiene 5 sucursales cuenta con el total de ventas de cada una de ellas y necesita procesar esta información para cumplir con los siguientes objetivos
+
+1.- Mostrar el menor monto de ventas y el nombre de la sucursal que lo obtuvo
+
+2.- Mostrar el mayor monto de ventas y el nombre de la sucursal que lo obtuvo
+
+3.- Listar las sucursales cuyo montos de ventas sea mayor al promedio
+
+4.- Listar los montos de ventas ordenados de manera ascendente
+
+5.- Implementar la búsqueda del nombre de una sucursal de no encontrarlo mostrar un mensaje notificándolo
