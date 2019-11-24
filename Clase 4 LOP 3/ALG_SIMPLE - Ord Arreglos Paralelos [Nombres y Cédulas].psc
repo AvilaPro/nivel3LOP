@@ -23,3 +23,4 @@ Algoritmo Orden_Simultaneo
 			Mostrar cedulas[i] "," nombres[i]
 		FinPara
 FinAlgoritmo
+//Ejemplo para Elias
