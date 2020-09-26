@@ -28,7 +28,7 @@ Algoritmo Procesar_Notas
 						may_nota=nota
 						nom_MayNota=Mayusculas(Nombre)
 					FinSi
-					// determinación del mayor valor y quién lo obtuvo 
+					// determinación del menor valor y quién lo obtuvo 
 					Si nota=men_nota entonces
 						nom_MenNota=nom_MenNota+","+Mayusculas(Nombre)
 					FinSi
